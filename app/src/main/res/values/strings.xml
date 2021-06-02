@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TabDetails</string>
+    <string name="textview1">프론트엔드 개발자:
+         백엔드 API에서 가져온 데이터의 출력, 입력을 통한 비지니스 로직 구성과\n사용자와 대화하는 사용자 인터페이스 부분을 작업하는 개발자를 말한다.
+</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+
+</resources>
